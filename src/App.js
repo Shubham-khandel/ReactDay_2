@@ -8,12 +8,16 @@ import {Btn} from './challenge_2.js'
 
 function App() {
   return (
+    
+    //This is challenge 2 code in this I've imported components form another file.
     <Fragment>
       <First/>
       <Second/>
       <Third/>
       <Btn/>
     </Fragment>
+    
+    // This is challenge 1 code
     
   // <Fragment>
   //     <h1>I am heading one...from first component</h1>
