@@ -9,7 +9,7 @@ import {Btn} from './challenge_2.js'
 function App() {
   return (
     
-    //This is challenge 2 code in this I've imported components form another file.
+    //This is challenge 2 code in this I've imported components form challenge_2.js.
     <Fragment>
       <First/>
       <Second/>
